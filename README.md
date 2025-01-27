@@ -5,17 +5,15 @@
   </div>
 </h3>
 
-#### 🌱  Currently a Computer Engineering Student<br>
+#### 🌱  Computer Engineering Student<br>
 #### 🔭  Working on some very Exciting Project<br><br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/panthera_tigriz_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi5455/) 
 
 <!--/div><h3 align="left">Connect with me:</h3-->
 ## Connect with me: 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abhi5455/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="abhiram-ashok" height="30" width="40" /></a><a href="https://twitter.com/_Abhiram_Ashok_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="_Abhiram_Ashok_" height="30" width="40" /></a><a href="https://instagram.com/panthera_tigriz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="panthera_tigriz_" height="30" width="40" /></a><a href="https://fb.com/Abhiram Ashok" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Abhiram Ashok" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dipesh-vs314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="dipesh" height="30" width="40" /></a><a href="https://x.com/i/flow/login?redirect_after_login=%2Fdipesh_vs" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="dipesh" height="30" width="40" /></a><a href="https://www.instagram.com/dipesh_vs?igsh=enoxaHMzams2enY1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="dipesh" height="30" width="40" /></a><a href="https://www.facebook.com/share/12JSGJFMrcQ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="dipesh" height="30" width="40" /></a>
 
 ## Languages and Tools:
 <!--/div><h3 align="left">Languages and Tools:</h3-->
